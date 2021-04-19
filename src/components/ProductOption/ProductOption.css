@@ -1,0 +1,40 @@
+.option-description {
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 500;
+}
+
+.quantity-selector {
+  min-width: 89px;
+  border: #dc6e05 solid 1px;
+  font-size: 14px;
+  line-height: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.option-selector {
+  display: flex;
+  height: 32px;
+  font-size: 14px;
+  line-height: 16px;
+  align-items: center;
+}
+.option-selector > img {
+  width: 14px;
+}
+
+.option-price {
+  color: #f09035;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.option-separator {
+  height: 0px;
+  border: 0px;
+  border-bottom: 1px solid #e8a634;
+  margin: 9px 0px;
+}
