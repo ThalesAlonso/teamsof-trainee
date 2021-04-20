@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="teamsoft" title="teamsoft" src=".github/hamburger.svg" />
+    <img alt="teamsoft" title="teamsoft" src=".github/img.svg" />
 </h1>
 
 <p align="center">
